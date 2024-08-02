@@ -1,6 +1,6 @@
 <template>
     <NuxtLayout name="dashboard">
-        test
+        <DashboardContainer />
     </NuxtLayout>
 </template>
 
@@ -8,6 +8,4 @@
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>

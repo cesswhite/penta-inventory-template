@@ -1,11 +1,5 @@
 <template>
     <NuxtLayout name="dashboard">
-        Products
+        <ProductsContainer />
     </NuxtLayout>
 </template>
-
-<script setup lang="ts">
-
-</script>
-
-<style scoped></style>

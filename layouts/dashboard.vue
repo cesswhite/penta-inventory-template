@@ -3,7 +3,7 @@
         <div class="col-span-2 h-auto border border-gray-200 bg-zinc-50 rounded-xl">
             <DashboardSidebar />
         </div>
-        <div class="col-span-10 h-full border border-gray-200 bg-zinc-50 rounded-xl">
+        <div class="col-span-10 h-full border border-gray-200 bg-zinc-50 rounded-xl p-4">
             <slot />
         </div>
     </div>
